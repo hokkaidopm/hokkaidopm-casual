@@ -6,6 +6,11 @@
 
 参考: http://hokkaido.pm.org/
 
+## 次回の開催日
+
+ - 3/19 Hokkaido.pm Casual#23
+ - ATND: http://atnd.org/events/48659
+
 ## 活動内容
 
  - 全員参加のLT
