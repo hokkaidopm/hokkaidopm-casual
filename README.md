@@ -11,6 +11,8 @@
  - 4/16 Hokkaido.pm Casual#24
    - ATND: http://atnd.org/events/49329
  - 5/21 Hokkaido.pm Casual#25
+ - 6/18 Hokkaido.pm Casual#26
+ - 7/16 Hokkaido.pm Casual#27
 
 ## 活動内容
 
