@@ -9,6 +9,7 @@
 ## 次回の開催日
 
  - 6/18 Hokkaido.pm Casual#26
+   - ATND: http://atnd.org/events/52188
  - 7/16 Hokkaido.pm Casual#27
  - 8/27 Hokkaido.pm Casual#28（YAPC::ASIA前日！？）
  - 9/17 Hokkaido.pm Casual#29
