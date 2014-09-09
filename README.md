@@ -9,6 +9,7 @@
 ## 次回の開催日
 
  - 2014/09/17 Hokkaido.pm Casual#29
+  - ATND: https://atnd.org/events/56267 
  - 2014/10/15 Hokkaido.pm Casual#30
  - 2014/11/19 Hokkaido.pm Casual#31
 
