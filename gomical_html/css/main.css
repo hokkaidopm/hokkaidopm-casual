@@ -14,10 +14,13 @@ body {
     background-color: #FFF;
 }
 
-h1 {
+#title h1 {
     font-size: 3.0em;
     text-align: center;
     margin: 6px;
+}
+#title p {
+    text-align: center;
 }
 
 nav#index h2 {
