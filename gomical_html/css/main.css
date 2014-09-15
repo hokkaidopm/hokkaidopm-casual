@@ -1,0 +1,128 @@
+body, h1, h2, h3, h4, h5, h6, p, div, section, table, tr, th, td {
+    margin: 0;
+    padding: 0;
+}
+
+ol, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Helvetica, Arial, Verdana, sans-serif;
+    color: #000;
+    background-color: #FFF;
+}
+
+h1 {
+    font-size: 3.0em;
+    text-align: center;
+    margin: 6px;
+}
+
+nav#index h2 {
+    margin-top: 6px;
+    margin-bottom: 6px;
+    padding-left: 40px;
+}
+nav#index ul {
+    list-style-type: none;
+}
+nav#index li {
+    padding-left: 80px;
+}
+nav#return_index a {
+    padding-left: 40px;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    margin: 20px;
+}
+
+section.cls_calendar {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.cls_calendar h2 {
+    font-size: 2.0em;
+    text-align: center;
+    margin: 6px;
+}
+.cls_calendar table {
+    border-style: none;
+    border-collapse: collapse;
+    margin: auto;
+}
+.cls_calendar tr {
+}
+.cls_calendar td {
+    font-size: 1.0em;
+    text-align: left;
+    vertical-align: top;
+    height: 50px;
+    border: 1px solid #000;
+}
+.cls_calendar th {
+    background-color: #FFF;
+    border: 1px solid #000;
+}
+.cls_calendar th div {
+    font-weight: normal;
+    display: inline;
+    padding-left: 5px;
+    font-size: .8em;
+}
+
+.cls_calendar h6 {
+    font-size: 1.2em;
+    font-weight: bold;
+    padding-left: 6px;
+    padding-top: 6px;
+}
+.cls_calendar p {
+    font-size: .9em;
+    padding: 6px;
+}
+
+.cls_sun {
+    color: #F00;
+}
+
+.cls_sat {
+    color: #00C;
+}
+
+.cls_padding {
+    background-color: #FFF;
+}
+.cls_none {
+    background-color: #FFF;
+}
+.cls_combustible {
+    background-color: #EE0;
+    width: 110px;
+}
+.cls_incombustible {
+    background-color: #EB0;
+    width: 130px;
+}
+.cls_plasticcontainer {
+    background-color: #FFF;
+    width: 80px;
+}
+.cls_bottle_can_petbottle {
+    background-color: #FFF;
+    width: 140px;
+}
+.cls_roughpaper {
+    background-color: #C9C;
+    width: 100px;
+}
+.cls_branch_leaf_grass {
+    background-color: #9C9;
+    width: 100px;
+}
