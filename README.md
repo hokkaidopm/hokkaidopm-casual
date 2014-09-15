@@ -4,7 +4,10 @@
 
 札幌で毎月第3水曜日に開催している勉強会
 
-参考: http://hokkaido.pm.org/
+### 参考
+ 
+ - http://hokkaido.pm.org/
+ - http://hokkaidopm.github.io/hokkaidopm-casual/
 
 ## 次回の開催日
 
