@@ -11,8 +11,11 @@
 
 ## 次回の開催日
 
- - 2014/12/17 Hokkaido.pm Casual#32
- - 2015/01/21 Hokkaido.pm Casual#33
+ - 2014/12/17 Hokkaido.pm Casual#32 @ OA研修室(3F)
+  - ATND: https://atnd.org/events/60100
+ - 2015/01/21 Hokkaido.pm Casual#33 @ OA研修室(3F)
+ - 2015/02/18 Hokkaido.pm Casual#34 @ 研修室1(4F) <-- 部屋が異なります！
+ - 2015/03/18 Hokkaido.pm Casual#35 @ OA研修室(3F)
 
 ## 活動内容
 
