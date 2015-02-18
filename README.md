@@ -11,8 +11,6 @@
 
 ## 次回の開催日
 
- - 2015/02/18 Hokkaido.pm Casual#34 @ 研修室1（4F） <-- いつもと部屋が異なります！
-  - ATND: https://atnd.org/events/62458
  - 2015/03/18 Hokkaido.pm Casual#35 @ OA研修室（3F）
  - 2015/04/15 Hokkaido.pm Casual#36 @ OA研修室（3F）
  - 2015/05/20 居酒屋で開催したい（予算5,000円くらい）
