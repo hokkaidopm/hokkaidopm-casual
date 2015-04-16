@@ -11,9 +11,9 @@
 
 ## 次回の開催日
 
- - 2015/04/15 Hokkaido.pm Casual#36 @ OA研修室（3F）
-  - ATND: https://atnd.org/events/64745
  - 2015/05/20 居酒屋で開催したい（予算5,000円くらい）
+  - 行ってみたいお店のリクエストはこちら！  
+ https://github.com/hokkaidopm/hokkaidopm-casual/issues/23
 
 ## 活動内容
 
