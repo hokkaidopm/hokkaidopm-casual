@@ -11,9 +11,9 @@
 
 ## 次回の開催日
 
- - 2015/05/20 居酒屋で開催したい（予算5,000円くらい）
+ - 2015/07/15 居酒屋で開催したい（第一候補はお好み焼き！？）
   - 行ってみたいお店のリクエストはこちら！  
- https://github.com/hokkaidopm/hokkaidopm-casual/issues/23
+ https://github.com/hokkaidopm/hokkaidopm-casual/issues/24
 
 ## 活動内容
 
