@@ -11,9 +11,9 @@
 
 ## 次回の開催日
 
- - 2015/07/15 居酒屋で開催したい（第一候補はお好み焼き！？）
+ - 2015/09/16 居酒屋で開催したい（肉はどうですか！？）
   - 行ってみたいお店のリクエストはこちら！  
- https://github.com/hokkaidopm/hokkaidopm-casual/issues/24
+ https://github.com/hokkaidopm/hokkaidopm-casual/issues/25
 
 ## 活動内容
 
