@@ -12,6 +12,7 @@
 ## 次回の開催日
 
  - 2015/09/16 居酒屋で開催したい（肉はどうですか！？）
+  - ATND: https://atnd.org/events/69958
   - 行ってみたいお店のリクエストはこちら！  
  https://github.com/hokkaidopm/hokkaidopm-casual/issues/25
 
