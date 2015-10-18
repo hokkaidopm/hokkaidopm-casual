@@ -9,12 +9,16 @@
  - http://hokkaido.pm.org/
  - http://hokkaidopm.github.io/hokkaidopm-casual/
 
+## What's new
+
+ - データが更新されました！（Thanks! syachiさん）  
+ http://hokkaidopm.github.io/hokkaidopm-casual/gomical_html/
+
 ## 次回の開催日
 
- - 2015/09/16 居酒屋で開催したい（肉はどうですか！？）
-  - ATND: https://atnd.org/events/69958
+ - 2015/11/18 居酒屋で開催したい（今度こそ、お肉ですかね！）
   - 行ってみたいお店のリクエストはこちら！  
- https://github.com/hokkaidopm/hokkaidopm-casual/issues/25
+ https://github.com/hokkaidopm/hokkaidopm-casual/issues/26
 
 ## 活動内容
 
