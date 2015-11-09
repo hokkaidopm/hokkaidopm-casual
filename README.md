@@ -19,6 +19,7 @@
  - 2015/11/18 居酒屋で開催したい（今度こそ、お肉ですかね！）
   - 行ってみたいお店のリクエストはこちら！  
  https://github.com/hokkaidopm/hokkaidopm-casual/issues/26
+  - ATND: https://atnd.org/events/72158
 
 ## 活動内容
 
