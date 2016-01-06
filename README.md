@@ -16,10 +16,9 @@
 
 ## 次回の開催日
 
- - 2015/11/18 居酒屋で開催したい（今度こそ、お肉ですかね！）
+ - 2016/01/20 居酒屋で開催したい（焼き鳥とか焼肉とか、もしくは前に行ったお店とか！）
   - 行ってみたいお店のリクエストはこちら！  
- https://github.com/hokkaidopm/hokkaidopm-casual/issues/26
-  - ATND: https://atnd.org/events/72158
+ https://github.com/hokkaidopm/hokkaidopm-casual/issues/27
 
 ## 活動内容
 
