@@ -16,9 +16,9 @@
 
 ## 次回の開催日
 
- - 2016/01/20 居酒屋で開催したい（焼き鳥とか焼肉とか、もしくは前に行ったお店とか！）
+ - 2016/03/16 居酒屋で開催したい（焼肉屋さんで「まるちょう」が食べたい！）
   - 行ってみたいお店のリクエストはこちら！  
- https://github.com/hokkaidopm/hokkaidopm-casual/issues/27
+ https://github.com/hokkaidopm/hokkaidopm-casual/issues/28
 
 ## 活動内容
 
