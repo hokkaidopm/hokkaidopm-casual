@@ -19,6 +19,7 @@
  - 2016/03/16 居酒屋で開催したい（焼肉屋さんで「まるちょう」が食べたい！）
   - 行ってみたいお店のリクエストはこちら！  
  https://github.com/hokkaidopm/hokkaidopm-casual/issues/28
+  - ATND: https://atnd.org/events/75790
 
 ## 活動内容
 
