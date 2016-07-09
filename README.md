@@ -19,6 +19,7 @@
  - 2016/07/20 居酒屋で開催したい（まずは、お店選びから！）
   - 行ってみたいお店のリクエストはこちら！  
  https://github.com/hokkaidopm/hokkaidopm-casual/issues/30
+  - ATND: https://atnd.org/events/79353
 
 ## 活動内容
 
