@@ -16,10 +16,9 @@
 
 ## 次回の開催日
 
- - 2016/09/21 居酒屋で開催したい（まずは、お店選びから！）
+ - 2016/11/16 鍋とか、どうですかね？（まずは、お店選びから！）
   - 行ってみたいお店のリクエストはこちら！  
- https://github.com/hokkaidopm/hokkaidopm-casual/issues/31
-  - ATND: https://atnd.org/events/81449
+ https://github.com/hokkaidopm/hokkaidopm-casual/issues/32
 
 ## 活動内容
 
