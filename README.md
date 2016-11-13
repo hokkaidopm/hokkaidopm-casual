@@ -19,6 +19,7 @@
  - 2016/11/16 鍋とか、どうですかね？（まずは、お店選びから！）
   - 行ってみたいお店のリクエストはこちら！  
  https://github.com/hokkaidopm/hokkaidopm-casual/issues/32
+  - ATND: https://atnd.org/events/83378
 
 ## 活動内容
 
