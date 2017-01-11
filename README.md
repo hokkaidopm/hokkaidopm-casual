@@ -2,7 +2,7 @@
 
 ## Hokkaido.pm Casualとは？
 
-札幌で隔月第3水曜日に開催している飲み会
+札幌で不定期に開催している飲み会
 
 ### 参考
  
@@ -16,10 +16,8 @@
 
 ## 次回の開催日
 
- - 2016/11/16 鍋とか、どうですかね？（まずは、お店選びから！）
-  - 行ってみたいお店のリクエストはこちら！  
- https://github.com/hokkaidopm/hokkaidopm-casual/issues/32
-  - ATND: https://atnd.org/events/83378
+ - 開催リクエストはこちらにどうぞ
+  - https://github.com/hokkaidopm/hokkaidopm-casual/issues/33
 
 ## 活動内容
 
